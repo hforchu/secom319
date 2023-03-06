@@ -1,0 +1,32 @@
+[
+    {
+        "product_name": "Black Beanie",
+        "description": "Simple black beanie. Comfortable to wear while going about day-to-day activities. Goes with most outfits.",
+        "img_url": "./images/beanies/black_long.jpeg"
+    },
+    {
+        "product_name": "Black Fitted Beanie",
+        "description": "Fitted black beanie. If your looking for a beanie that matches your trench coat perhaps this might be the one for you.",
+        "img_url": "./images/beanies/black_short.jpg"
+    },
+    {
+        "product_name": "Browmn Beanie",
+        "description": "Traditional beanie that fits most styles. If you like darker shades this is awesome.",
+        "img_url": "./images/beanies/brown.jpg"
+    },
+    {
+        "product_name": "Grey Beanie",
+        "description": "Dog's get you day coming up? Or perhaps you just want your dog looking cool here's a little something to drip him up",
+        "img_url": "./images/beanies/gray_dog.jpeg"
+    },
+    {
+        "product_name": "Red Beanie",
+        "description": " A red beanie to bring out the color of your eyes. Something cool and a little exotic for those who love looking fierce.",
+        "img_url": "./images/beanies/red_long.jpeg"
+    },
+    {
+        "product_name": "Yellow Beanie",
+        "description": "Nothing like a little little yellow to brighten the mode. Very comfy style to glister in the sunlight",
+        "img_url": "./images/beanies/yellow_ball.jpeg"
+    }
+]

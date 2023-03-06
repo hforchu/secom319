@@ -1,0 +1,32 @@
+"Jackets": [
+        {
+            "product_name": "Army Jacket",
+            "description": "Looking for a versatile and durable jacket? Look no further than the classic army jacket, designed to withstand tough conditions and provide practical functionality while also making a fashion statement.",
+            "img_url": "../images/jackets/army_green.jpeg"
+        },
+        {
+            "product_name": "Black Winter Jacket",
+            "description": "Looking for a stylish and cozy winter jacket that will keep you warm during the coldest months? Check out our black winter jacket, featuring a sleek design and insulated materials that will keep you feeling comfortable and looking great no matter the weather.",
+            "img_url": "../images/jackets/black_winter.jpeg"
+        },
+        {
+            "product_name": "Blue Jacket",
+            "description": "Looking for a versatile and stylish addition to your wardrobe? Our blue jean jacket is the perfect choice! With its timeless design, durable denim material, and comfortable fit, this jacket is sure to become a staple in your closet, suitable for any occasion from casual outings to dressier events.",
+            "img_url": "../images/jackets/blue_jacket.jpeg"
+        },
+        {
+            "product_name": "Yellow Winter Jacket",
+            "description": "Our yellow puffy winter jacket is just what you need! With its cozy insulation and eye-catching color, you'll stay warm and stylish all winter long.",
+            "img_url": "../images/jackets/yellow_bumper.jpeg"
+        },
+        {
+            "product_name": "Brown Winter Jacket",
+            "description": "Our brown winter jacket is the perfect combination of style and functionality. With its warm and cozy insulation, durable materials, and sleek design, you can stay comfortable and fashionable all winter long.",
+            "img_url": "../images/jackets/brown_winter.jpeg"
+        },
+        {
+            "product_name": "Orange Winter Jacket",
+            "description": "Make a bold statement this winter with our orange winter jacket! Designed to keep you warm and dry while also standing out from the crowd, this jacket is the perfect combination of fashion and function.",
+            "img_url": "../images/jackets/orange_winter.jpeg"
+        }
+    ],
