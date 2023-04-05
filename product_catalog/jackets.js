@@ -34,7 +34,7 @@ function appendData(data) {
                       <button
                         type="button"
                         class="btn btn-sm btn-outline-secondary"
-                        onclick=""
+                        onclick="window.open('${result.img_url}', 'targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1090px, height=550px, top=25px left=120px'); return false;"
                       >
                         View
                       </button>
