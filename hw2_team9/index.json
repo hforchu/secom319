@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Tissot",
+        "id": 1,
+        "img": "./products/tissot.png",
+        "price": 100
+    },
+    {
+        "name":"Rolex",
+        "id": 2,
+        "img": "./products/rolex.png",
+        "price": 150
+    },
+    {
+        "name":"Nike jordans",
+        "id": 3,
+        "img": "./products/nike.png",
+        "price": 80
+    },
+    {
+        "name":"Puma shoes",
+        "id": 4,
+        "img": "./products/puma.png",
+        "price": 60
+    },
+    {
+        "name":"Laker jersey",
+        "id": 5,
+        "img": "./products/laker.png",
+        "price": 55
+    },
+    {
+        "name":"Warriors jersey",
+        "id": 6,
+        "img": "./products/gsw.png",
+        "price": 50
+    },
+    {
+        "name":"Gucci slides",
+        "id": 7,
+        "img": "./products/gucci.png",
+        "price": 40
+    },
+    {
+        "name":"Yeezy slides",
+        "id": 8,
+        "img": "./products/yeezy.png",
+        "price": 45
+    }
+]

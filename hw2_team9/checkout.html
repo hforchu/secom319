@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Checkout</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="./index.js" defer></script>
+  </head>
+  <body>
+    <h1>Checkout</h1>
+    <a href="./index.html" class="nav-button">Store</a>
+    <a href="./cart.html" class="nav-button">Cart</a>
+    <div id="cartList"></div>
+    
+    <div class="payment-info">
+        <h2>Payment Information</h2>
+        <form id="paymentForm" action="./index.html">
+            <label for="cardholderName">Cardholder Name</label>
+            <input type="text" id="cardholderName" name="cardholderName">
+            
+            <label for="cardNumber">Card Number</label>
+            <input type="text" id="cardNumber" name="cardNumber">
+            
+            <label for="expiryDate">Expiry Date</label>
+            <input type="text" id="expiryDate" name="expiryDate">
+            
+            <label for="cvv">CVV</label>
+            <input type="text" id="cvv" name="cvv">
+            
+            <button type="submit" onclick="alarm()">Order</button>
+            <script>
+                function alarm(){
+                    alert("Thanks for shopping with us!");
+                }
+            </script>
+  </body>
+</html>

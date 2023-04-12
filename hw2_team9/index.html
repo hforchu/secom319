@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Store</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./index.js" defer></script>
+    <style>
+      #pdt {
+        height: 275px;
+        width: 1000px;
+        object-fit: contain;
+      }
+
+      h1 {
+        padding: 5%;
+        font-size: 50px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 style="padding: 5%">Store Catalog</h1>
+    <div>
+      <input type="text" id="searchInput" placeholder="Search for items" />
+      <button id="searchButton">Search</button>
+      <a href="cart.html" class="nav-button" style="float: right">Cart</a>
+    </div>
+    <div id="itemList"></div>
+  </body>
+</html>
